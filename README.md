@@ -2,7 +2,7 @@
 
 A portable shell script that collects key system performance metrics including CPU, memory, disk usage, and process stats.
 
-## Project Page URL :- https://roadmap.sh/projects/server-stats
+### Project Page URL :- https://roadmap.sh/projects/server-stats
 
 ## 📦 Features
 
